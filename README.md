@@ -6,6 +6,6 @@
 </p>
 <h2>My Community</h2>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%23ffffff?style=flat-square&logo=YouTube&logoColor=%23FF0000&link=https%3A%2F%2Fyoutube.com%2F%40dok-0727%3Fsi%3DeDdOaDilmjkXi2lh">
+  <a href="https://youtube.com/@dok-0727?si=yvRh6_Mbwh75F2K7" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%23ffffff?style=flat-square&logo=YouTube&logoColor=%23FF0000&link=https%3A%2F%2Fyoutube.com%2F%40dok-0727%3Fsi%3DeDdOaDilmjkXi2lh">
 </p>
 

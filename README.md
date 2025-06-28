@@ -3,6 +3,8 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23ffffff?style=flat-square&logo=html5&logoColor=%23E34F26" position:>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%23ffffff?style=flat-square&logo=css&logoColor=%23663399">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23ffffff?style=flat-square&logo=javascript&logoColor=%23F7DF1E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%23ffffff?style=flat-square&logo=python&logoColor=%233776AB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23ffffff?style=flat-square&logo=c&logoColor=%23A8B9CC">
 </p>
 <h2>My Community</h2>
 <p>

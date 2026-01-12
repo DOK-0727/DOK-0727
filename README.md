@@ -13,6 +13,7 @@
   <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-%23ffffff?style=flat-square&logo=googledrive&logoColor=%234285F4">
   <img alt="Google Docs" src="https://img.shields.io/badge/Google%20Docs-%23ffffff?style=flat-square&logo=googledocs&logoColor=%234285F4">
   <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%23ffffff?style=flat-square&logo=googlesheets&logoColor=%2334A853">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=%23181717">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23ffffff?style=flat-square&logo=github&logoColor=%23181717">
 </p>
 

@@ -9,12 +9,16 @@
 
 <h2>My Tools</h2>
 <p>
-  <img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-%23ffffff?style=flat-square&logo=googleappsscript&logoColor=%234285F4">
-  <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-%23ffffff?style=flat-square&logo=googledrive&logoColor=%234285F4">
-  <img alt="Google Docs" src="https://img.shields.io/badge/Google%20Docs-%23ffffff?style=flat-square&logo=googledocs&logoColor=%234285F4">
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%23ffffff?style=flat-square&logo=googlesheets&logoColor=%2334A853">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=%23181717">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23ffffff?style=flat-square&logo=github&logoColor=%23181717">
+  <img src="https://lh3.googleusercontent.com/d/1gVDEhhR_E-H365vGJl8292338KTOsMOf" height="40px;">
+
+  <img src="https://lh3.googleusercontent.com/d/1163xLql4xP3IX7tNzlqn2iBR3qR89FUP" height="40px;">
+  <img src="https://lh3.googleusercontent.com/d/19A3b6vsQTO1c18-2y-Ym0Y_ckpUigzu4" height="40px;">
+  <img src="https://lh3.googleusercontent.com/d/1RRSIeZ9AWFRqbhrUqoPY91DLSGtVb7se" height="40px;">
+
+  <img src="https://lh3.googleusercontent.com/d/13oc-SIcPFJgtEsQndCi1qot1NmT3oYT9" height="40px;">
+  <img src="https://lh3.googleusercontent.com/d/1BYvYO3_fiFhcxTmrw3GTnD_aF3rd3dIi" height="40px;">
+  <img src="https://lh3.googleusercontent.com/d/1BJbpmc5WPsMc4rqFpGcSdklPPITf873s" height="40px;">
+  <img src="https://lh3.googleusercontent.com/d/1UN5Wcgh6XlmPzdzqezOvd-d8XUbEC1Lm" height="40px;">
 </p>
 
 <h2>My Community</h2>

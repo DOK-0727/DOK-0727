@@ -23,6 +23,6 @@
 
 <h2>My Community</h2>
 <p>
-  <a href="https://youtube.com/@dok-0727?si=yvRh6_Mbwh75F2K7" target="_blank"><img src="https://lh3.googleusercontent.com/d/12DrytWUUwOPgkyyxjoEw3IAidhHYwH2X" height="28" width="35"></a>
-  <a href="https://www.instagram.com/dok_0727?igsh=MWllN2VkYjJhdGtqeg%3D%3D&utm_source=qr" target="_blank"><img src="https://lh3.googleusercontent.com/d/1qyEgb14Eh8UKWC-kg-4CFbXNEQ0IOZnu" height="32" width="32"></a>
+  <a href="https://youtube.com/@dok-0727?si=yvRh6_Mbwh75F2K7" target="_blank"><img src="https://lh3.googleusercontent.com/d/12DrytWUUwOPgkyyxjoEw3IAidhHYwH2X" height="32" width="40"></a>
+  <a href="https://www.instagram.com/dok_0727?igsh=MWllN2VkYjJhdGtqeg%3D%3D&utm_source=qr" target="_blank"><img src="https://lh3.googleusercontent.com/d/1qyEgb14Eh8UKWC-kg-4CFbXNEQ0IOZnu" height="40" width="40"></a>
 </p>

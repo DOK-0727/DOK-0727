@@ -1,10 +1,10 @@
 <h2>My Tech</h2>
 <p>
-  <img src="https://lh3.googleusercontent.com/d/1QUkMtqLNxek5f6f8uY67TP0iSi2XXF2o" height="40px;">
-  <img src="https://lh3.googleusercontent.com/d/1BL2shRPoyozjQ74FDBiQp2bynjPpjBFs" height="40px;">
-  <img src="https://lh3.googleusercontent.com/d/1bB6AaMs8DFumIL8YEjz0nx6Qz_0QIhsX" height="40px;">
-  <img src="https://lh3.googleusercontent.com/d/1YIiHlGIUgpOhYr-_IscfvANEPUWixy_h" height="40px;">
-  <img src="https://lh3.googleusercontent.com/d/1li4eQtNmsTKL_JoW1i32dKS8OduceUEz" height="40px;">
+  <img src="https://lh3.googleusercontent.com/d/1QUkMtqLNxek5f6f8uY67TP0iSi2XXF2o" height="32" width="32">
+  <img src="https://lh3.googleusercontent.com/d/1BL2shRPoyozjQ74FDBiQp2bynjPpjBFs" height="32" width="32">
+  <img src="https://lh3.googleusercontent.com/d/1bB6AaMs8DFumIL8YEjz0nx6Qz_0QIhsX" height="32" width="32">
+  <img src="https://lh3.googleusercontent.com/d/1YIiHlGIUgpOhYr-_IscfvANEPUWixy_h" height="32" width="32">
+  <img src="https://lh3.googleusercontent.com/d/1li4eQtNmsTKL_JoW1i32dKS8OduceUEz" height="32" width="32">
 </p>
 
 <h2>My Tools</h2>

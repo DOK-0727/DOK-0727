@@ -1,10 +1,10 @@
 <h2>My Tech</h2>
 <p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-%23ffffff?style=flat-square&logo=html5&logoColor=%23E34F26" position:>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-%23ffffff?style=flat-square&logo=css&logoColor=%23663399">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23ffffff?style=flat-square&logo=javascript&logoColor=%23F7DF1E">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%23ffffff?style=flat-square&logo=python&logoColor=%233776AB">
-  <img alt="C" src="https://img.shields.io/badge/C-%23ffffff?style=flat-square&logo=c&logoColor=%23A8B9CC">
+  <img src="https://lh3.googleusercontent.com/d/1QUkMtqLNxek5f6f8uY67TP0iSi2XXF2o">
+  <img src="https://lh3.googleusercontent.com/d/1BL2shRPoyozjQ74FDBiQp2bynjPpjBFs">
+  <img src="https://lh3.googleusercontent.com/d/1bB6AaMs8DFumIL8YEjz0nx6Qz_0QIhsX">
+  <img src="https://lh3.googleusercontent.com/d/1YIiHlGIUgpOhYr-_IscfvANEPUWixy_h">
+  <img src="hhttps://lh3.googleusercontent.com/d/1li4eQtNmsTKL_JoW1i32dKS8OduceUEz">
 </p>
 
 <h2>My Tools</h2>
@@ -22,4 +22,3 @@
   <a href="https://youtube.com/@dok-0727?si=yvRh6_Mbwh75F2K7" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23ffffff?style=flat-square&logo=YouTube&logoColor=%23FF0000&link=https%3A%2F%2Fyoutube.com%2F%40dok-0727%3Fsi%3DeDdOaDilmjkXi2lh"></a>
   <a href="https://www.instagram.com/dok_0727?igsh=MWllN2VkYjJhdGtqeg%3D%3D&utm_source=qr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23ffffff?style=flat-square&logo=instagram&logoColor=%23FF0000&link=https%3A%2F%2Finstagram.com%2F%40dok-0727%3Fsi%3DeDdOaDilmjkXi2lh"></a>
 </p>
-

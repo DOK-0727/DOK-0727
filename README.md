@@ -1,14 +1,25 @@
 <h2>My Tech</h2>
 <p>
-  <img src="https://lh3.googleusercontent.com/d/1TIOLYWQAB5waPDK_Q2SYvg6kM84OP809" height="40px;">
-  <img src="https://lh3.googleusercontent.com/d/1Vr3EC32gk7N9OJUAyr15jFdNNitRxocV" height="40px;">
-  <img src="https://lh3.googleusercontent.com/d/1bB6AaMs8DFumIL8YEjz0nx6Qz_0QIhsX" height="40px;">
-  <img src="https://lh3.googleusercontent.com/d/1YIiHlGIUgpOhYr-_IscfvANEPUWixy_h" height="40px;">
-  <img src="https://lh3.googleusercontent.com/d/1li4eQtNmsTKL_JoW1i32dKS8OduceUEz" height="40px;">
+  <img src="explain_img/My_Tech/HTML.jpeg" height="40px;">
+  <img src="explain_img/My_Tech/CSS.jpeg" height="40px;">
+  <img src="explain_img/My_Tech/JavaScript.jpeg" height="40px;">
+  <img src="explain_img/My_Tech/Python.jpeg" height="40px;">
+  <img src="explain_img/My_Tech/C.jpeg" height="40px;">
 </p>
 
 <h2>My Tools</h2>
 <p>
+  <img src="explain_img/My_Tools/Visual Studio Code.jpeg" height="32px;">
+  <br>
+  <img src="explain_img/My_Tools/Google Sites.jpeg" height="40px;">
+  <img src="explain_img/My_Tools/Google Apps Script.jpeg" height="40px;">
+  <img src="explain_img/My_Tools/Vercel.jpeg" height="40px;">
+  <br>
+  <img src="explain_img/My_Tools/Google Drive.jpeg" height="32px;">
+  <img src="explain_img/My_Tools/Google Docs.jpeg" height="40px;">
+  <img src="explain_img/My_Tools/Google Sheets.jpeg" height="40px;">
+  <img src="explain_img/My_Tools/GitHub.jpeg" height="40px;">
+
   <img src="https://lh3.googleusercontent.com/d/1gVDEhhR_E-H365vGJl8292338KTOsMOf" height="32px;">
   <br>
   <img src="https://lh3.googleusercontent.com/d/1163xLql4xP3IX7tNzlqn2iBR3qR89FUP" height="40px;">

@@ -1,6 +1,6 @@
 <h2>My Tech</h2>
 <p>
-  <p><img src="explain_img/My_Tech/HTML.jpeg" height="40px;">HTML</p>
+  <div><img src="explain_img/My_Tech/HTML.jpeg" height="40px;">HTML</div>
   <p><img src="explain_img/My_Tech/CSS.jpeg" height="40px;">CSS</p>
   <p><img src="explain_img/My_Tech/JavaScript.jpeg" height="40px;">
   <p><img src="explain_img/My_Tech/Python.jpeg" height="40px;">

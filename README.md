@@ -13,7 +13,6 @@
   <img src="explain_img/My_Tools/Google_Sites.jpeg" height="12px;">Google Sites
   <img src="explain_img/My_Tools/Google_Apps_Script.jpeg" height="12px;">Google Apps Script
   <img src="explain_img/My_Tools/Vercel.jpeg" height="12px;">Vercel
-  </p>
   <br>
   <img src="explain_img/My_Tools/Google_Drive.jpeg" height="12px;">Google Drive
   <img src="explain_img/My_Tools/Google_Docs.jpeg" height="12px;">Google Docs

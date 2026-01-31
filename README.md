@@ -1,11 +1,11 @@
 <h2>My Tech</h2>
-<p>
-  <img src="explain_img/My_Tech/HTML.jpeg" height="12px;">HTML</button>
+<h2>
+  <img src="explain_img/My_Tech/HTML.jpeg" height="12px;">HTML
   <img src="explain_img/My_Tech/CSS.jpeg" height="12px;">CSS
   <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
   <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python
   <img src="explain_img/My_Tech/C.jpeg" height="12px;">C
-</p>
+</h2>
 
 <h2>My Tools</h2>
 <p>

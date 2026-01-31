@@ -2,9 +2,9 @@
 <p>
   <img src="explain_img/My_Tech/HTML.jpeg" height="12px;">HTML
   <img src="explain_img/My_Tech/CSS.jpeg" height="12px;">CSS
-  <p><img src="explain_img/My_Tech/JavaScript.jpeg" height="40px;">
-  <p><img src="explain_img/My_Tech/Python.jpeg" height="40px;">
-  <p><img src="explain_img/My_Tech/C.jpeg" height="40px;">
+  <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
+  <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python
+  <img src="explain_img/My_Tech/C.jpeg" height="12px;">C
 </p>
 
 <h2>My Tools</h2>

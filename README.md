@@ -9,7 +9,7 @@
 
 <h2>My Tools</h2>
 <p>
-  <p><img src="explain_img/My_Tools/Visual_Studio_Code.jpeg" height="32px;">Visual Studio Code</p>
+  <img src="explain_img/My_Tools/Visual_Studio_Code.jpeg" height="12px;">Visual Studio Code
   <br>
   <p><img src="explain_img/My_Tools/Google_Sites.jpeg" height="40px;">Google Sites</p>
   <p><img src="explain_img/My_Tools/Google_Apps_Script.jpeg" height="40px;">Google Apps Script</p>

@@ -24,5 +24,5 @@
 <h2>My Community</h2>
 <p> 
   <a href="https://youtube.com/@dok-0727?si=yvRh6_Mbwh75F2K7" target="_blank"><img src="explain_img/My_Community/YouTube.jpeg" height="12">YouTube</a>
-  <a href="https://www.instagram.com/dok_0727?igsh=MWllN2VkYjJhdGtqeg%3D%3D&utm_source=qr" target="_blank"><img src="explain_img/My_Community/Instagram.jpeg" height="12>Instagram</a>
+  <a href="https://www.instagram.com/dok_0727?igsh=MWllN2VkYjJhdGtqeg%3D%3D&utm_source=qr" target="_blank"><img src="explain_img/My_Community/Instagram.jpeg" height="12">Instagram</a>
 </p>

@@ -1,10 +1,10 @@
 <h2>My Tech</h2>
 <h2>
-  <img src="explain_img/My_Tech/HTML.jpeg" height="20px;">HTML
-  <img src="explain_img/My_Tech/CSS.jpeg" height="20px;">CSS
-  <img src="explain_img/My_Tech/JavaScript.jpeg" height="20px;">JavaScript
-  <img src="explain_img/My_Tech/Python.jpeg" height="20px;">Python
-  <img src="explain_img/My_Tech/C.jpeg" height="20px;">C
+  <img src="explain_img/My_Tech/HTML.jpeg" height="18px;">HTML
+  <img src="explain_img/My_Tech/CSS.jpeg" height="18px;">CSS
+  <img src="explain_img/My_Tech/JavaScript.jpeg" height="18px;">JavaScript
+  <img src="explain_img/My_Tech/Python.jpeg" height="18px;">Python
+  <img src="explain_img/My_Tech/C.jpeg" height="18px;">C
 </h2>
 
 <h2>My Tools</h2>

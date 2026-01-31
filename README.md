@@ -11,14 +11,14 @@
 <p>
   <img src="explain_img/My_Tools/Visual_Studio_Code.jpeg" height="12px;">Visual Studio Code
   <br>
-  <p><img src="explain_img/My_Tools/Google_Sites.jpeg" height="40px;">Google Sites</p>
-  <p><img src="explain_img/My_Tools/Google_Apps_Script.jpeg" height="40px;">Google Apps Script</p>
-  <p><img src="explain_img/My_Tools/Vercel.jpeg" height="40px;">Vercel</p>
+  <img src="explain_img/My_Tools/Google_Sites.jpeg" height="12px;">Google Sites
+  <img src="explain_img/My_Tools/Google_Apps_Script.jpeg" height="12px;">Google Apps Script
+  <img src="explain_img/My_Tools/Vercel.jpeg" height="12px;">Vercel
   <br>
-  <p><img src="explain_img/My_Tools/Google_Drive.jpeg" height="32px;">Google Drive</p>
-  <p><img src="explain_img/My_Tools/Google_Docs.jpeg" height="40px;">Google Docs</p>
-  <p><img src="explain_img/My_Tools/Google_Sheets.jpeg" height="40px;">Google Sheets</p>
-  <p><img src="explain_img/My_Tools/GitHub.jpeg" height="40px;">GitHub</p>
+  <img src="explain_img/My_Tools/Google_Drive.jpeg" height="12px;">Google Drive
+  <img src="explain_img/My_Tools/Google_Docs.jpeg" height="12px;">Google Docs
+  <img src="explain_img/My_Tools/Google_Sheets.jpeg" height="12px;">Google Sheets
+  <img src="explain_img/My_Tools/GitHub.jpeg" height="12px;">GitHub
 </p>
 
 <h2>My Community</h2>

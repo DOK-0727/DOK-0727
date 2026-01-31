@@ -1,11 +1,11 @@
 <h2>My Tech</h2>
-<p style="font-size=108px;">
+<h2>
   <img src="explain_img/My_Tech/HTML.jpeg" height="18px;">HTML
   <img src="explain_img/My_Tech/CSS.jpeg" height="18px;">CSS
   <img src="explain_img/My_Tech/JavaScript.jpeg" height="18px;">JavaScript
   <img src="explain_img/My_Tech/Python.jpeg" height="18px;">Python
   <img src="explain_img/My_Tech/C.jpeg" height="18px;">C
-</p>
+</h2>
 
 <h2>My Tools</h2>
 <p>

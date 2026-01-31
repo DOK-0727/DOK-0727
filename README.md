@@ -58,6 +58,7 @@
   <a href="#" style=" display:inline-flex; align-items:center; gap:6px; padding:6px 10px; margin:4px; background-color:#fff1e6; border:1px solid #e34c26; border-radius:6px; text-decoration:none; color:#000; font-size:14px;">
     <img src="explain_img/My_Tools/GitHub.jpeg" height="14">GitHub
   </a>
+</p>
 
 <h2>My Community</h2>
 <p>

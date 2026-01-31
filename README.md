@@ -1,6 +1,6 @@
 <h2>My Tech</h2>
 <p>
-  <button><img src="explain_img/My_Tech/HTML.jpeg" height="12px;">HTML</button>
+  <button color="black;"><img src="explain_img/My_Tech/HTML.jpeg" height="12px;">HTML</button>
   <img src="explain_img/My_Tech/CSS.jpeg" height="12px;">CSS
   <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
   <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python

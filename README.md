@@ -1,5 +1,5 @@
 <h2>My Tech</h2>
-<p style="font-size:18px;">
+<p style="font-size:108px;">
   <img src="explain_img/My_Tech/HTML.jpeg" height="18px;">HTML
   <img src="explain_img/My_Tech/CSS.jpeg" height="18px;">CSS
   <img src="explain_img/My_Tech/JavaScript.jpeg" height="18px;">JavaScript

@@ -6,7 +6,7 @@
   <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python <img src="explain_img/My_Tech/C.jpeg" height="12px;">C
 </p>
 
-<h2>My Tools</h2>
+<h2>My Tool</h2>
 <p>
   <img src="explain_img/My_Tool/Visual_Studio_Code.jpeg" height="12px;">Visual Studio Code
   <br>
@@ -18,6 +18,19 @@
   <img src="explain_img/My_Tool/Google_Docs.jpeg" height="12px;">Google Docs
   <img src="explain_img/My_Tool/Google_Sheets.jpeg" height="12px;">Google Sheets
   <img src="explain_img/My_Tool/GitHub.jpeg" height="12px;">GitHub
+</p>
+
+<h2>My Plan</h2>
+<p>
+  <img src="explain_img/My_Tech/Python.jpeg.jpeg" height="12px;">Python
+  <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask
+  <br>
+  <img src="explain_img/My_Tech/SQL" height="12px;">SQL
+  <img src="explain_img/My_Tool/SQLite.jpg" height="12px;">SQLite
+  <br>
+  <img src="explain_img/My_Tech/Tailwind_CSS.jpg" height="12px;">Tailwind CSS
+  <img src="explain_img/My_Tech/React.jpg" height="12px;">React
+  <img src="explain_img/My_Tech/Node.js.jpg" height="12px;">Node.js
 </p>
 
 <h2>My Community</h2>

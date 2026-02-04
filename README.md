@@ -30,7 +30,7 @@
   <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python
   <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask
   <br>
-  SQL
+  <img src="explain_img/My_Tech/SQL.jpg" height="12px;">SQL
   <img src="explain_img/My_Tool/SQLite.jpg" height="12px;">SQLite
   <br>
   <img src="explain_img/My_Tech/Tailwind_CSS.jpg" height="12px;">Tailwind CSS

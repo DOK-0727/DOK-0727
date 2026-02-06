@@ -24,18 +24,18 @@
 <p>
   <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript <b>00:54:50/08:39:29</b>
   <br>
-  <img src="explain_img/My_Tech/git.jpg" height="12px;">git <b>00:00/44:43</b>
-  <img src="explain_img/My_Tool/GitHub.jpeg" height="12px;">GitHub <b>00:00/48:24</b>
+  <img src="explain_img/My_Tech/git.jpg" height="12px;">git <b>00:00:00/00:44:43</b>
+  <img src="explain_img/My_Tool/GitHub.jpeg" height="12px;">GitHub <b>00:00:00/00:48:24</b>
   <br>
-  <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python
-  <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask
+  <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python<b>00:00:00/46:16:02</b>
+  <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask<b>00:00:00/01:19:21</b>
   <br>
-  <img src="explain_img/My_Tech/SQL.jpg" height="12px;">SQL
-  <img src="explain_img/My_Tool/SQLite.jpg" height="12px;">SQLite
+  <img src="explain_img/My_Tech/SQL.jpg" height="12px;">SQL<b>00:00:00</b>
+  <img src="explain_img/My_Tool/SQLite.jpg" height="12px;">SQLite<b>00:00:00</b>
   <br>
-  <img src="explain_img/My_Tech/Tailwind_CSS.jpg" height="12px;">Tailwind CSS
-  <img src="explain_img/My_Tech/React.jpg" height="12px;">React
-  <img src="explain_img/My_Tech/Node.js.jpg" height="12px;">Node.js
+  <img src="explain_img/My_Tech/Tailwind_CSS.jpg" height="12px;">Tailwind CSS<b>00:00:00</b>
+  <img src="explain_img/My_Tech/React.jpg" height="12px;">React<b>00:00:00</b>
+  <img src="explain_img/My_Tech/Node.js.jpg" height="12px;">Node.js<b>00:00:00</b>
 </p>
 
 <h2>My Community</h2>

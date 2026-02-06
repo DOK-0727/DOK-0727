@@ -22,7 +22,7 @@
 
 <h2>My Plan</h2>
 <p>
-  <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript <b>00:27:30/08:39:29</b>
+  <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript <b>00:54:50/08:39:29</b>
   <br>
   <img src="explain_img/My_Tech/git.jpg" height="12px;">git
   <img src="explain_img/My_Tool/GitHub.jpeg" height="12px;">GitHub

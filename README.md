@@ -20,12 +20,6 @@
   <img src="explain_img/My_Tool/GitHub.jpeg" height="12px;">GitHub
 </p>
 
-<h2>My Community</h2>
-<p>
-  <a href="https://youtube.com/@dok-0727?si=yvRh6_Mbwh75F2K7" target="_blank"><img src="explain_img/My_Community/YouTube.jpeg" height="12">YouTube</a>
-  <a href="https://www.instagram.com/dok_0727?igsh=MWllN2VkYjJhdGtqeg%3D%3D&utm_source=qr" target="_blank"><img src="explain_img/My_Community/Instagram.jpeg" height="12">Instagram</a>
-</p>
-
 <h2>My Plan</h2>
 <p>
   <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript <b>(00:54:50/08:39:29)</b>
@@ -43,4 +37,10 @@
   <img src="explain_img/My_Tech/React.jpg" height="12px;">React <b>(00:00:00/01:28:04)</b>
   <img src="explain_img/My_Tech/Node.js.jpg" height="12px;">Node.js <b>(00:00:00/01:00:35)</b>
   <img src="explain_img/My_Tool/MySQL.jpg" height="12px;">MySQL <b>(00:00:00/08:02:22)</b>
+</p>
+
+<h2>My Community</h2>
+<p>
+  <a href="https://youtube.com/@dok-0727?si=yvRh6_Mbwh75F2K7" target="_blank"><img src="explain_img/My_Community/YouTube.jpeg" height="12">YouTube</a>
+  <a href="https://www.instagram.com/dok_0727?igsh=MWllN2VkYjJhdGtqeg%3D%3D&utm_source=qr" target="_blank"><img src="explain_img/My_Community/Instagram.jpeg" height="12">Instagram</a>
 </p>

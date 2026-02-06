@@ -36,6 +36,7 @@
   <img src="explain_img/My_Tech/Tailwind_CSS.jpg" height="12px;">Tailwind CSS <b>(00:00:00/00:17:06)</b>
   <img src="explain_img/My_Tech/React.jpg" height="12px;">React <b>(00:00:00/01:28:04)</b>
   <img src="explain_img/My_Tech/Node.js.jpg" height="12px;">Node.js <b>(00:00:00/01:00:35)</b>
+  <img src="explain_img/My_Tool/MySQL.jpg" height="12px;">MySQL <b>(00:00:00/08:02:22)</b>
 </p>
 
 <h2>My Community</h2>

@@ -31,7 +31,7 @@
   <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask <b>(00:00:00/01:19:21)</b>
   <br>
   <img src="explain_img/My_Tech/SQL.jpg" height="12px;">SQL
-  <img src="explain_img/My_Tool/SQLite.jpg" height="12px;">SQLite <b>(00:00:00/00:43:22)</b>
+  <img src="explain_img/My_Tool/SQLite.jpg" height="12px;">SQLite <b>(00:18:15/00:43:22)</b>
   <br>
   <img src="explain_img/My_Tech/Tailwind_CSS.jpg" height="12px;">Tailwind CSS <b>(00:00:00/00:17:06)</b>
   <img src="explain_img/My_Tech/React.jpg" height="12px;">React <b>(00:00:00/01:28:04)</b>

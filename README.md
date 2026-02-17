@@ -14,9 +14,11 @@
   <img src="explain_img/My_Tool/Google_Apps_Script.jpeg" height="12px;">Google Apps Script
   <img src="explain_img/My_Tool/Vercel.jpeg" height="12px;">Vercel
   <br>
+  <img src="explain_img/My_Tool/Google_Sheets.jpeg" height="12px;">Google Sheets
+  <img src="explain_img/My_Tool/SQLite.jpg" height="12px;">SQLite
+  <br>
   <img src="explain_img/My_Tool/Google_Drive.jpeg" height="12px;">Google Drive
   <img src="explain_img/My_Tool/Google_Docs.jpeg" height="12px;">Google Docs
-  <img src="explain_img/My_Tool/Google_Sheets.jpeg" height="12px;">Google Sheets
   <img src="explain_img/My_Tool/GitHub.jpeg" height="12px;">GitHub
 </p>
 
@@ -31,12 +33,11 @@
   <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask <b>(00:00:00/01:19:21)</b>
   <br>
   <img src="explain_img/My_Tech/SQL.jpg" height="12px;">SQL
-  <img src="explain_img/My_Tool/SQLite.jpg" height="12px;">SQLite <b>(00:18:15/00:43:22)</b>
+  <img src="explain_img/My_Tool/MySQL.jpg" height="12px;">MySQL <b>(00:00:00/08:02:22)</b>
   <br>
   <img src="explain_img/My_Tech/Tailwind_CSS.jpg" height="12px;">Tailwind CSS <b>(00:00:00/00:17:06)</b>
   <img src="explain_img/My_Tech/React.jpg" height="12px;">React <b>(00:00:00/01:28:04)</b>
   <img src="explain_img/My_Tech/Node.js.jpg" height="12px;">Node.js <b>(00:00:00/01:00:35)</b>
-  <img src="explain_img/My_Tool/MySQL.jpg" height="12px;">MySQL <b>(00:00:00/08:02:22)</b>
 </p>
 
 <h2>My Community</h2>

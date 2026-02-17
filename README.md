@@ -30,7 +30,7 @@
   <img src="explain_img/My_Tool/GitHub.jpeg" height="12px;">GitHub <b>(00:00:00/00:48:24)</b>
   <br>
   <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python <b>(00:00:00/46:16:02)</b>
-  <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask <b>(00:00:00/01:19:21)</b>
+  <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask <b>(00:41:07/01:19:21)</b>
   <br>
   <img src="explain_img/My_Tech/SQL.jpg" height="12px;">SQL
   <img src="explain_img/My_Tool/MySQL.jpg" height="12px;">MySQL <b>(00:00:00/08:02:22)</b>

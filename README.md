@@ -25,7 +25,7 @@
 <h2>My Plan</h2>
 <p>
   <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
-  <input type="chechbox">(01:31:00/08:39:29)</input>
+  <input type="checkhbox">(01:31:00/08:39:29)</input>
   <br>
   <img src="explain_img/My_Tech/git.jpg" height="12px;">git
   <li>(00:00:00/00:44:43)</li>

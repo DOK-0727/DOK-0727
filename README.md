@@ -29,7 +29,7 @@
   <img src="explain_img/My_Tech/git.jpg" height="12px;">git <b>(00:00:00/00:44:43)</b>
   <img src="explain_img/My_Tool/GitHub.jpeg" height="12px;">GitHub <b>(00:00:00/00:48:24)</b>
   <br>
-  <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python <b>(00:00:00/46:16:02)</b>
+  <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python <b>(00:22:10/46:16:02)</b>
   <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask <b>(00:41:07/01:19:21)</b>
   <br>
   <img src="explain_img/My_Tech/SQL.jpg" height="12px;">SQL

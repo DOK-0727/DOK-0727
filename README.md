@@ -24,20 +24,21 @@
 
 <h2>My Plan</h2>
 <p>
-  <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python <b>(00:22:10/46:16:02)</b>
-  <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask <b>(00:41:07/01:19:21)</b>
+  <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
+  <br>
+  <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python
+  <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask
   <br>
   <img src="explain_img/My_Tech/SQL.jpg" height="12px;">SQL
-  <img src="explain_img/My_Tool/MySQL.jpg" height="12px;">MySQL <b>(00:00:00/08:02:22)</b>
+  <img src="explain_img/My_Tool/SQLite.jpg" height="12px;">SQLite
+  <img src="explain_img/My_Tool/MySQL.jpg" height="12px;">MySQL
   <br>
-  <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript <b>(01:31:00/08:39:29)</b>
+  <img src="explain_img/My_Tech/git.jpg" height="12px;">git
+  <img src="explain_img/My_Tool/GitHub.jpeg" height="12px;">GitHub
   <br>
-  <img src="explain_img/My_Tech/git.jpg" height="12px;">git <b>(00:00:00/00:44:43)</b>
-  <img src="explain_img/My_Tool/GitHub.jpeg" height="12px;">GitHub <b>(00:00:00/00:48:24)</b>
-  <br>
-  <img src="explain_img/My_Tech/Tailwind_CSS.jpg" height="12px;">Tailwind CSS <b>(00:00:00/00:17:06)</b>
-  <img src="explain_img/My_Tech/React.jpg" height="12px;">React <b>(00:00:00/01:28:04)</b>
-  <img src="explain_img/My_Tech/Node.js.jpg" height="12px;">Node.js <b>(00:00:00/01:00:35)</b>
+  <img src="explain_img/My_Tech/Tailwind_CSS.jpg" height="12px;">Tailwind CSS
+  <img src="explain_img/My_Tech/React.jpg" height="12px;">React
+  <img src="explain_img/My_Tech/Node.js.jpg" height="12px;">Node.js
 </p>
 
 <h2>My Community</h2>

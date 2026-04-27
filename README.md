@@ -3,7 +3,10 @@
   <img src="explain_img/My_Tech/HTML.jpeg" height="12px;">HTML
   <img src="explain_img/My_Tech/CSS.jpeg" height="12px;">CSS
   <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
-  <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python <img src="explain_img/My_Tech/C.jpeg" height="12px;">C
+  <br>
+  <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python
+  <br>
+  <img src="explain_img/My_Tech/C.jpeg" height="12px;">C
 </p>
 
 <h2>My Tool</h2>

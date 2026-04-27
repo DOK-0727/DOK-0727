@@ -8,7 +8,7 @@
 
 <h2>My Tool</h2>
 <p>
-  <img src="explain_img/My_Tool/Visual_Studio_Code.jpeg" height="12px;">Visual Studio Code
+  <input type="checkbox"><img src="explain_img/My_Tool/Visual_Studio_Code.jpeg" height="12px;">Visual Studio Code
   <br>
   <img src="explain_img/My_Tool/Google_Sites.jpeg" height="12px;">Google Sites
   <img src="explain_img/My_Tool/Google_Apps_Script.jpeg" height="12px;">Google Apps Script

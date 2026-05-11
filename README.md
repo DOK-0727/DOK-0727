@@ -6,6 +6,7 @@
   <br>
   <img src="explain_img/My_Tech/Python.jpeg" height="12px;">Python
   <img src="explain_img/My_Tech/Selenium.png" height="12px;">Selenium
+  <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask
   <br>
   <img src="explain_img/My_Tech/C.jpeg" height="12px;">C
 </p>

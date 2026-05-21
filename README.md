@@ -19,6 +19,7 @@
   <img src="explain_img/My_Tech/Flask.jpg" height="12px;">Flask
   <br>
   <img src="explain_img/My_Tech/C.jpeg" height="12px;">C
+  <br>
   <img src="explain_img/My_Tech/SQL.jpg" height="12px;">SQL
 </p>
 

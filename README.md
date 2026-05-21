@@ -1,5 +1,5 @@
 <h2>My Experience</h2>
-<h2 font-weight=normal;>
+<h2 font-weight="normal;">
   <img src="explain_img/My_Experience/SAEROM.png" height="20px;">TechWorks
   <br>
   <img src="explain_img/My_Experience/Code_Club.png" height="20px;">2026 상반기 Code Club

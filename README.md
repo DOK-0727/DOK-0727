@@ -23,6 +23,8 @@
 <h2>My Tool</h2>
 <p>
   <img src="explain_img/My_Tool/Visual_Studio_Code.jpeg" height="12px;">Visual Studio Code
+  <img src="explain_img/My_Tool/PyCharm.jpeg" height="12px;">PyCharm
+  <img src="explain_img/My_Tool/CLion.jpeg" height="12px;">CLion
   <br>
   <img src="explain_img/My_Tool/Google_Sites.jpeg" height="12px;">Google Sites
   <img src="explain_img/My_Tool/Google_Apps_Script.jpeg" height="12px;">Google Apps Script

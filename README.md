@@ -41,6 +41,12 @@
   <img src="explain_img/My_Tool/GitHub.jpeg" height="12px;">GitHub
 </p>
 
+<h2>My Community</h2>
+<p>
+  <a href="https://youtube.com/@dok-0727?si=yvRh6_Mbwh75F2K7" target="_blank"><img src="explain_img/My_Community/YouTube.jpeg" height="12">YouTube</a>
+  <a href="https://www.instagram.com/dok_0727?igsh=MWllN2VkYjJhdGtqeg%3D%3D&utm_source=qr" target="_blank"><img src="explain_img/My_Community/Instagram.jpeg" height="12">Instagram</a>
+</p>
+
 <h2>My Plan</h2>
 <p>
   <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
@@ -58,10 +64,4 @@
   <img src="explain_img/My_Tech/Tailwind_CSS.jpg" height="12px;">Tailwind CSS
   <img src="explain_img/My_Tech/React.jpg" height="12px;">React
   <img src="explain_img/My_Tech/Node.js.jpg" height="12px;">Node.js
-</p>
-
-<h2>My Community</h2>
-<p>
-  <a href="https://youtube.com/@dok-0727?si=yvRh6_Mbwh75F2K7" target="_blank"><img src="explain_img/My_Community/YouTube.jpeg" height="12">YouTube</a>
-  <a href="https://www.instagram.com/dok_0727?igsh=MWllN2VkYjJhdGtqeg%3D%3D&utm_source=qr" target="_blank"><img src="explain_img/My_Community/Instagram.jpeg" height="12">Instagram</a>
 </p>

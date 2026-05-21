@@ -1,6 +1,7 @@
 <h2>My Experience</h2>
 <p>
-  2026 상반기 Code Club 
+  <img src="explain_img/My_Experience/SAEROM.png" height="12px;">TechWorks
+  <img src="explain_img/My_Experience/Code_Club.png" height="12px;">2026 상반기 Code Club
 </p>
 
 <h2>My Tech</h2>

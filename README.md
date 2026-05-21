@@ -1,6 +1,6 @@
 <h2>My Experience</h2>
 <p>
-  <img src="explain_img/My_Experience/SAEROM.png" height="12px;>SAEROM HIGH SCHOOL(TechWorks)
+  <img src="explain_img/My_Experience/SAEROM.png" height="12px;>SAEROM HIGH SCHOOL TechWorks
   <br>
   <img src="explain_img/My_Experience/Code_Club.png" height="12px;">2026 상반기 Code Club
 </p>

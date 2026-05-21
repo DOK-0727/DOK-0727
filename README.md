@@ -4,7 +4,6 @@
   <img src="explain_img/My_Experience/TechWorks.png" height="12px;">TechWorks
   <br>
   <img src="explain_img/My_Experience/KONKUK.png" height="12px;">KONKUK UNIVERSITY
-  <br>
   <img src="explain_img/My_Experience/Code_Club.png" height="12px;">2026 상반기 Code Club
 </p>
 

@@ -8,6 +8,11 @@
   <img src="explain_img/My_Experience/Code_Club.png" height="12px;">2026 상반기 Code Club
 </p>
 
+<h2>My_Qualifications</h2>
+<p>
+  <a href="explain_img/My_Qualifications/파이썬 라이브러리를 활용한 데이터 분석 수료증.pdf" target="_blank">[혁신사업] 2026-1학기 온라인학습법특강 8: 파이썬 라이브러리를 활용한 데이터 분석 수료증</a>
+</p>
+
 <h2>My Tech</h2>
 <p>
   <img src="explain_img/My_Tech/HTML.jpeg" height="12px;">HTML

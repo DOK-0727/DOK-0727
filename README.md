@@ -11,6 +11,7 @@
 <h2>My_Qualifications</h2>
 <p>
   <a href="image/My_Qualifications/AI_Fundamentals_Certificate.jpeg" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Fundamentals Certificate</a>
+  <br>
   <a href="image/My_Qualifications/Python_Data_Analysis_Certificate.pdf" target="_blank"><img src="image/My_Experience/KONKUK.png" height="12">2026-1학기 온라인학습법특강 8: 파이썬 라이브러리를 활용한 데이터 분석 수료증</a>
 </p>
 

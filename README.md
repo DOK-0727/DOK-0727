@@ -8,11 +8,11 @@
   <img src="image/My_Experience/Code_Club.png" height="12px;">2026 상반기 Code Club
 </p>
 
-<h2>My_Qualifications</h2>
+<h2>My Certificate</h2>
 <p>
-  <a href="image/My_Qualifications/AI_Fundamentals_Certificate.jpeg" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Fundamentals Certificate</a>
+  <a href="image/My_Certificate/AI_Fundamentals.jpeg" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Fundamentals</a>
   <br>
-  <a href="image/My_Qualifications/Python_Data_Analysis_Certificate.pdf" target="_blank"><img src="image/My_Experience/KONKUK.png" height="12">2026-1학기 온라인학습법특강 8: 파이썬 라이브러리를 활용한 데이터 분석 수료증</a>
+  <a href="image/My_Certificate/Python_Data_Analysis.pdf" target="_blank"><img src="image/My_Experience/KONKUK.png" height="12">2026-1학기 온라인학습법특강 8: 파이썬 라이브러리를 활용한 데이터 분석</a>
 </p>
 
 <h2>My Tech</h2>

@@ -10,7 +10,7 @@
 
 <h2>My Certificate</h2>
 <p>
-  <a href="image/My_Certificate/AI_for_Brainstorming_and_Planning.jpeg" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Brainstorming and Planning</a>
+  <a href="image/My_Certificate/AI_for_Brainstorming_and_Planning.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Brainstorming and Planning</a>
   <br>
   <a href="image/My_Certificate/AI_Fundamentals.jpeg" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Fundamentals</a>
   <br>

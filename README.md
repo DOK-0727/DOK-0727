@@ -13,6 +13,7 @@
   <a href="image/My_Certificate/AI_Fundamentals.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Fundamentals</a>
   <a href="image/My_Certificate/AI_for_Brainstorming_and_Planning.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Brainstorming and Planning</a>
   <a href="image/My_Certificate/AI_for_Research_and_Insights.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Research and Insights</a>
+  <a href="image/My_Certificate/AI_for_Writing_and_Communicating.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Writing and Communicating</a>
   <br>
   <a href="image/My_Certificate/Python_Data_Analysis.pdf" target="_blank"><img src="image/My_Experience/KONKUK.png" height="12">2026-1학기 온라인학습법특강 8: 파이썬 라이브러리를 활용한 데이터 분석</a>
 </p>

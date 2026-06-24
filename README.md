@@ -1,8 +1,8 @@
 <h2>My Experience</h2>
 <p>
-  <img src="image/My_Experience/KONKUK.png" height="12px;">KONKUK UNIVERSITY
-  <br>
   <img src="image/My_Experience/Code_Club.png" height="12px;">2026 상반기 Code Club
+  <br>
+  <img src="image/My_Experience/KONKUK.png" height="12px;">KONKUK UNIVERSITY
   <br>
   <img src="image/My_Experience/SAEROM.png" height="12px;">SAEROM HIGH SCHOOL
   <img src="image/My_Experience/TechWorks.png" height="12px;">TechWorks

@@ -11,8 +11,11 @@
 <h2>My Project</h2>
 <p>
   <a href="" target="_blank"><img src="image/My_Experience/SAEROM.png" height="12px;">SAEROM-student_main</a>
+  <br>
   <a href="" target="_blank"><img src="image/My_Experience/SAEROM.png" height="12px;">SAEROM-maeumjindan</a>
+  <br>
   <a href="" target="_blank"><img src="image/My_Experience/SAEROM.png" height="12px;">SAEROM-teacher_main</a>
+  <br>
   <a href="" target="_blank"><img src="image/My_Experience/SAEROM.png" height="12px;">SAEROM-techworks_main</a>
 </p>
 

@@ -24,21 +24,18 @@
 </details>
 <details>
   <summary>AI Engineering</summary>
-</details>
-<details>
-  <summary>UI/UX Design</summary>
-</details>
-<details>
-  <summary>Project Management</summary>
-</details>
-<details>
-  <summary>AI</summary>
   <a href="image/My_Certificate/AI_Fundamentals.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Fundamentals</a>
   <a href="image/My_Certificate/AI_for_Brainstorming_and_Planning.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Brainstorming and Planning</a>
   <a href="image/My_Certificate/AI_for_Research_and_Insights.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Research and Insights</a>
   <a href="image/My_Certificate/AI_for_Writing_and_Communicating.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Writing and Communicating</a>
   <a href="image/My_Certificate/AI_for_Content_Creation.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Content Creation</a>
   <a href="image/My_Certificate/AI_for_Data_Analysis.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Data Analysis</a>
+</details>
+<details>
+  <summary>UI/UX Design</summary>
+</details>
+<details>
+  <summary>Project Management</summary>
 </details>
 
 <h2>My Tech</h2>

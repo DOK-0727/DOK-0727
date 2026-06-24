@@ -21,8 +21,8 @@
 </details
 <details>
   <summary>Cybersecurity Engineering</summary>
-</details>
-<details>-->
+</details>-->
+<details>
   <summary>AI Engineering</summary>
   <details>
     <summary><a href="image/My_Certificate/AI_Professional_Certificate.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Professional Certificate</a></summary>

@@ -17,6 +17,8 @@
   <a href="" target="_blank"><img src="image/My_Experience/SAEROM.png" height="12px;">SAEROM-teacher_main</a>
   <br>
   <a href="" target="_blank"><img src="image/My_Experience/SAEROM.png" height="12px;">SAEROM-techworks_main</a>
+  <br>
+  <a href="" target="_blank"><img src="DOK.jpg" height="12px;">DOK-jokbo</a>
 </p>
 
 <h2>My Tech</h2>

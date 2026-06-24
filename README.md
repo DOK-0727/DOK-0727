@@ -9,20 +9,20 @@
 </p>
 
 <h2>My Certificate</h2>
-<details>
+<!--<details>
   <summary>Software Engineering</summary>
-</details>
+</details>-->
 <details>
   <summary>Data Engineering</summary>
   <a href="image/My_Certificate/Python_Data_Analysis.pdf" target="_blank"><img src="image/My_Experience/KONKUK.png" height="12">2026-1학기 온라인학습법특강 8: 파이썬 라이브러리를 활용한 데이터 분석</a>
 </details>
-<details>
+<!--<details>
   <summary>Cloud Engineering</summary>
-</details>
+</details
 <details>
   <summary>Cybersecurity Engineering</summary>
 </details>
-<details>
+<details>-->
   <summary>AI Engineering</summary>
   <details>
     <summary><a href="image/My_Certificate/AI_Professional_Certificate.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Professional Certificate</a></summary>
@@ -39,12 +39,12 @@
     <a href="image/My_Certificate/AI_for_Data_Analysis.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Data Analysis</a>
   </details>
 </details>
-<details>
+<!--<details>
   <summary>UI/UX Design</summary>
 </details>
 <details>
   <summary>Project Management</summary>
-</details>
+</details>-->
 
 <h2>My Tech</h2>
 <p>

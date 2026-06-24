@@ -24,12 +24,20 @@
 </details>
 <details>
   <summary>AI Engineering</summary>
-  <a href="image/My_Certificate/AI_Fundamentals.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Fundamentals</a>
-  <a href="image/My_Certificate/AI_for_Brainstorming_and_Planning.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Brainstorming and Planning</a>
-  <a href="image/My_Certificate/AI_for_Research_and_Insights.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Research and Insights</a>
-  <a href="image/My_Certificate/AI_for_Writing_and_Communicating.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Writing and Communicating</a>
-  <a href="image/My_Certificate/AI_for_Content_Creation.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Content Creation</a>
-  <a href="image/My_Certificate/AI_for_Data_Analysis.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Data Analysis</a>
+  <details>
+    <summary><a href="image/My_Certificate/AI_Fundamentals.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Professional Certificate</a></summary>
+    <a href="image/My_Certificate/AI_Fundamentals.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Fundamentals</a>
+    <br>
+    <a href="image/My_Certificate/AI_for_Brainstorming_and_Planning.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Brainstorming and Planning</a>
+    <br>
+    <a href="image/My_Certificate/AI_for_Research_and_Insights.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Research and Insights</a>
+    <br>
+    <a href="image/My_Certificate/AI_for_Writing_and_Communicating.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Writing and Communicating</a>
+    <br>
+    <a href="image/My_Certificate/AI_for_Content_Creation.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Content Creation</a>
+    <br>
+    <a href="image/My_Certificate/AI_for_Data_Analysis.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Data Analysis</a>
+  </details>
 </details>
 <details>
   <summary>UI/UX Design</summary>

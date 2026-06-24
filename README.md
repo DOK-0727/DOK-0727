@@ -25,7 +25,7 @@
 <details>
   <summary>AI Engineering</summary>
   <details>
-    <summary><a href="image/My_Certificate/AI_Fundamentals.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Professional Certificate</a></summary>
+    <summary><a href="image/My_Certificate/AI_Professional_Certificate.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Professional Certificate</a></summary>
     <a href="image/My_Certificate/AI_Fundamentals.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI Fundamentals</a>
     <br>
     <a href="image/My_Certificate/AI_for_Brainstorming_and_Planning.JPG" target="_blank"><img src="image/My_Experience/Google.jpeg" height="12">AI for Brainstorming and Planning</a>

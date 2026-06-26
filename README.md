@@ -57,7 +57,7 @@
 <h2>My Certificate</h2>
 <details>
   <summary>Software Engineering</summary>
-  <a href="image/My_Certificate/IBM_Full_Stack_Software_Developer_Certificate.pdf" target="_blank"><img src="image/My_Experience/IBM.png" height="12">IBM Full Stack Software Developer</a>
+  <a href="image/My_Certificate/IBM_Full_Stack_Software_Developer_Certificate.pdf" target="_blank"><img src="image/My_Experience/IBM.png" height="12">IBM Full Stack Software Developer Certificate</a>
 </details>
 <details>
   <summary>Data Engineering</summary>

@@ -18,7 +18,7 @@
   <br>
   <a href="https://github.com/DOK-0727/SAEROM-techworks_main" target="_blank"><img src="image/My_Experience/SAEROM.png" height="12px;">SAEROM-techworks_main</a>
   <br>
-  <a href="https://github.com/DOK-0727/DOK-jokbo" target="_blank"><img src="DOK.jpg" height="12px;">DOK-jokbo</a>
+  <a href="https://github.com/DOK-0727/DOK-jokbo" target="_blank"><img src="image/DOK.jpg" height="12px;">DOK-jokbo</a>
 </p>
 
 <h2>My Tech</h2>

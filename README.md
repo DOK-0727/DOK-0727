@@ -18,7 +18,7 @@
   <br>
   <a href="https://github.com/DOK-0727/SAEROM-techworks_main" target="_blank"><img src="image/My_Experience/SAEROM.png" height="12px;">SAEROM-techworks_main</a>
   <br>
-  <a href="https://github.com/DOK-0727/DOK-jokbo" target="_blank"><img src="image/DOK.jpg" height="12px;">DOK-jokbo</a>
+  <a href="https://github.com/DOK-0727/DOK-jokbo" target="_blank"><img src="DOK.jpg" height="12px;">DOK-jokbo</a>
 </p>
 
 <h2>My Tech</h2>
@@ -55,9 +55,12 @@
 </p>
 
 <h2>My Certificate</h2>
-<!--<details>
+<details>
   <summary>Software Engineering</summary>
-</details>-->
+  <summary><a href="" target="_blank"><img src="image/My_Experience/IBM.PNG" height="12">IBM Full Stack Software Developer</a></summary>
+    <a href="image/My_Certificate/Introduction_to_Software_Engineering.JPG" target="_blank"><img src="image/My_Experience/IBM.PNG" height="12">Introduction to Software Engineering</a>
+  </details>
+</details>
 <details>
   <summary>Data Engineering</summary>
   <a href="image/My_Certificate/Python_Data_Analysis_Certificate.pdf" target="_blank"><img src="image/My_Experience/KONKUK.png" height="12">2026-1학기 온라인학습법특강 8: 파이썬 라이브러리를 활용한 데이터 분석 수료증</a>

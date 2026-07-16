@@ -66,7 +66,8 @@
 </details>
 <details>
   <summary>Data Engineering</summary>
-  <a href="image/My_Certificate/Python_Data_Analysis_Certificate.pdf" target="_blank"><img src="image/My_Experience/KONKUK.png" height="12">2026-1학기 온라인학습법특강 8: 파이썬 라이브러리를 활용한 데이터 분석 수료증</a>
+  <a href="image/My_Certificate/2026_Spring_Python_Data_Analysis_Certificate.pdf" target="_blank"><img src="image/My_Experience/KONKUK.png" height="12">2026-1학기 온라인학습법특강 8: 파이썬 라이브러리를 활용한 데이터 분석 수료증</a>
+  <a href="image/My_Certificate/2026_Summer_Python_Data_Analysis_Certificate.pdf" target="_blank"><img src="image/My_Experience/KONKUK.png" height="12">2026학년도 하계방학 모듈형 온라인학습법 특강 Ⅱ 파이썬 데이터 활용 수료증</a>
 </details>
 <!--<details>
   <summary>Cloud Engineering</summary>

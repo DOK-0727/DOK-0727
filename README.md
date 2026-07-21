@@ -107,9 +107,9 @@
   <summary>Others</summary>
 </details>-->
 
-<h2>My Community</h2>
+<!--<h2>My Community</h2>
 <p>
   <a href="https://youtube.com/@dok-0727?si=yvRh6_Mbwh75F2K7" target="_blank"><img src="image/My_Community/YouTube.jpeg" height="12">YouTube</a>
   <a href="https://www.instagram.com/dok_0727?igsh=MWllN2VkYjJhdGtqeg%3D%3D&utm_source=qr" target="_blank"><img src="image/My_Community/Instagram.jpeg" height="12">Instagram</a>
   <a href="https://kr.linkedin.com/in/도경-한-2b04a13aa" target="_blank"><img src="image/My_Community/LinkedIn.PNG" height="12">LinkedIn</a>
-</p>
+</p>-->
